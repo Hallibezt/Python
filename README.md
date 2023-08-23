@@ -1,5 +1,4 @@
-# Python Network Programming Course
-
+# Python Network Automation
 This course is a comprehensive guide to Python programming in the context of network automation. It provides real-world insights, best practices, and advanced techniques in Python for network automation.
 
 ## Key Topics Covered
